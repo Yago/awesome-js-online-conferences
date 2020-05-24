@@ -2,6 +2,7 @@
 
 In this times of lockdown all around the globe, a lot of conferences have been canceled or postponed. Here is a list of 2020 and 2019 (not that old) **JavaScript conferences you can watch from home**, live or not !
 
+
 ## 🟨 JavaScript
 
 | dates | name | links |
@@ -28,9 +29,19 @@ In this times of lockdown all around the globe, a lot of conferences have been c
 | 2020-02-05,07 | **JSConf Hawaiʻi** | [Website](https://www.jsconfhi.com/), [YouTube](https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1) |
 | 2020-02-19,20,21 | **Frontend Developer Love** | [Website](https://www.frontenddeveloperlove.com/), [YouTube](https://www.youtube.com/playlist?list=PL02pdjMT4gWypMrsa8_787NjIzIuP6s1B) |
 | 2020-05-27,28 | **Jamstack Conf Virtual**  | [Website](https://jamstackconf.com/virtual/) |
+| 2020-05-27,28,29 | **ForwardJS ~~Ottawa~~ Interweb** | [Website](https://forwardjs.com/ottawa) |
+| 2020-06-20,21,22,23,24 | **ForwardJS ~~SF~~ Interweb** | [Website](https://forwardjs.com/sanfrancisco) |
 | 2020-06-22 | **HolyJS Piter** | [Website](https://holyjs-piter.ru/en/) |
 | 2020-06-22,23 | **JSCONF.BE** | [Website](https://www.jsconf.be/) |
+| 2020-07-13,14,15,16,17 | **ESNext Conf** | [Website](https://www.esnextconf.com/) |
 
+## 💄 CSS
+| dates | name | links |
+|---|---|---|
+| 2019-05-31 | CSSConf EU | [Website](https://2019.cssconf.eu/), [YouTube](https://www.youtube.com/playlist?list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17) |
+| 2019-06-07 | Pixel Pioneers | [Website](https://pixelpioneers.co/events/bristol-2019), [YouTube](https://www.youtube.com/playlist?list=PLUjXef3rLwaqP_h0htsP-m1r5JqNBBEIM) |
+| 2019-07-17 | CSSCamp Barcelona | [Website](https://csscamp.tech/), [YouTube](https://www.youtube.com/playlist?list=PLieKQVH5zPnXeayueJ4hoBmM0tujPLdyn) |
+| 2019-12-04 | dotCSS | [Website](https://www.dotcss.io/), [YouTube](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG7h_ujkOx8wu6kb7vZsvcyv) |
 
 
 ## ⚛️ React
@@ -52,8 +63,8 @@ In this times of lockdown all around the globe, a lot of conferences have been c
 | 2020-04-17 | **React Summit Remote Edition** | [Website](https://remote.reactsummit.com/), [YouTube](https://www.youtube.com/playlist?list=PLNBNS7NRGKMGCBNebw8xkpkq_lhgPoIzR) |
 | 2020-05-01,02 | **Byteconf React 2020** | [Website](https://www.bytesized.xyz/react-2020), [YouTube](https://www.youtube.com/playlist?list=PLH_Crma-Dc9OwLsglv7uP13JUM3uP6STx) |
 | 2020-05-14,15 | **ReactEurope**  | [Website](https://www.react-europe.org/), [YouTube](https://www.youtube.com/playlist?list=PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl) |
+| 2020-05-25,26,27,28 | **React Finland Online** | [Website](https://react-finland.fi/), [YouTube](https://www.youtube.com/watch?v=sN01JuUIrsw) |
 | 2020-09-01,02,03,04 | **React Native EU Virtual Edition** | [Website](https://www.react-native.eu/) |
-
 
 
 ## 🔽 Vue
@@ -65,7 +76,6 @@ In this times of lockdown all around the globe, a lot of conferences have been c
 | 2019-11-11,12 | **VueConfTO** | [Website](https://2019.vuetoronto.com/), [YouTube](https://www.youtube.com/playlist?list=PLRxahvbQSa_uDvlWBFAsaFdVx1DyXkZ6S) |
 | 2020-02-20,21 | **Vue.js Amsterdam** | [Website](https://www.vuejs.amsterdam/), [YouTube](https://www.youtube.com/playlist?list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn) |
 | 2020-03-02,03,04 | **Vueconf.US** | [Website](http://vueconf.us/), [YouTube](https://www.youtube.com/playlist?list=PLJNLwTPak6dgjZQOa9jroWZF4Ze9jlEZL) |
-
 
 
 ## 🟩 Node
