@@ -30,6 +30,7 @@ In this times of lockdown all around the globe, a lot of conferences have been c
 | 2020-02-19,20,21 | **Frontend Developer Love** | [Website](https://www.frontenddeveloperlove.com/), [YouTube](https://www.youtube.com/playlist?list=PL02pdjMT4gWypMrsa8_787NjIzIuP6s1B) |
 | 2020-05-27,28 | **Jamstack Conf Virtual**  | [Website](https://jamstackconf.com/virtual/) |
 | 2020-05-27,28,29 | **ForwardJS ~~Ottawa~~ Interweb** | [Website](https://forwardjs.com/ottawa) |
+| 2020-06-18,19 | **JSNation Live** | [Website](https://live.jsnation.com/) |
 | 2020-06-20,21,22,23,24 | **ForwardJS ~~SF~~ Interweb** | [Website](https://forwardjs.com/sanfrancisco) |
 | 2020-06-22 | **HolyJS Piter** | [Website](https://holyjs-piter.ru/en/) |
 | 2020-06-22,23 | **JSCONF.BE** | [Website](https://www.jsconf.be/) |
