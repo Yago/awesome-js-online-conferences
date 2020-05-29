@@ -28,7 +28,7 @@ In this times of lockdown all around the globe, a lot of conferences have been c
 | 2020-01-23,24,25,26 | **AgentConf 2020** | [Website](https://agent.sh/), [YouTube](https://www.youtube.com/playlist?list=PL02Kht_parVlg-EPMtMjwMFI2N1N7t_HH) |
 | 2020-02-05,07 | **JSConf Hawaiʻi** | [Website](https://www.jsconfhi.com/), [YouTube](https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1) |
 | 2020-02-19,20,21 | **Frontend Developer Love** | [Website](https://www.frontenddeveloperlove.com/), [YouTube](https://www.youtube.com/playlist?list=PL02pdjMT4gWypMrsa8_787NjIzIuP6s1B) |
-| 2020-05-27,28 | **Jamstack Conf Virtual**  | [Website](https://jamstackconf.com/virtual/) |
+| 2020-05-27,28 | **Jamstack Conf Virtual**  | [Website](https://jamstackconf.com/virtual/), [YouTube](https://www.youtube.com/playlist?list=PL58Wk5g77lF8jzqp_1cViDf-WilJsAvqT) |
 | 2020-05-27,28,29 | **ForwardJS ~~Ottawa~~ Interweb** | [Website](https://forwardjs.com/ottawa) |
 | 2020-06-18,19 | **JSNation Live** | [Website](https://live.jsnation.com/) |
 | 2020-06-20,21,22,23,24 | **ForwardJS ~~SF~~ Interweb** | [Website](https://forwardjs.com/sanfrancisco) |
