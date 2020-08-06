@@ -29,12 +29,8 @@ In this times of lockdown all around the globe, a lot of conferences have been c
 | 2020-02-05,07 | **JSConf Hawaiʻi** | [Website](https://www.jsconfhi.com/), [YouTube](https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1) |
 | 2020-02-19,20,21 | **Frontend Developer Love** | [Website](https://www.frontenddeveloperlove.com/), [YouTube](https://www.youtube.com/playlist?list=PL02pdjMT4gWypMrsa8_787NjIzIuP6s1B) |
 | 2020-05-27,28 | **Jamstack Conf Virtual**  | [Website](https://jamstackconf.com/virtual/), [YouTube](https://www.youtube.com/playlist?list=PL58Wk5g77lF8jzqp_1cViDf-WilJsAvqT) |
-| 2020-05-27,28,29 | **ForwardJS ~~Ottawa~~ Interweb** | [Website](https://forwardjs.com/ottawa) |
-| 2020-06-18,19 | **JSNation Live** | [Website](https://live.jsnation.com/) |
-| 2020-06-20,21,22,23,24 | **ForwardJS ~~SF~~ Interweb** | [Website](https://forwardjs.com/sanfrancisco) |
-| 2020-06-22 | **HolyJS Piter** | [Website](https://holyjs-piter.ru/en/) |
-| 2020-06-22,23 | **JSCONF.BE** | [Website](https://www.jsconf.be/) |
-| 2020-07-13,14,15,16,17 | **ESNext Conf** | [Website](https://www.esnextconf.com/) |
+| 2020-06-18,19 | **JSNation Live** | [Website](https://live.jsnation.com/), [YouTube](https://www.youtube.com/playlist?list=PLfIM4SvaiIyySUvx7L8PXNl5nqM9x_dXC) |
+| 2020-07-13,14,15,16,17 | **ESNext Conf** | [Website](https://www.esnextconf.com/), [YouTube](https://www.youtube.com/playlist?list=PLk0Uo6Nr8Xhl7rJggs0d1mdiWZlokMCFm) |
 
 ## 💄 CSS
 | dates | name | links |
